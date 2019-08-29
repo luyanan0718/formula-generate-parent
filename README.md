@@ -20,7 +20,7 @@
 
 ### 使用现有模板
 
-```
+```java
          //  设置数据源
         DruidDataSource dataSource = new DruidDataSource();
         dataSource.setUrl("jdbc:mysql://localhost:3306/manage?characterEncoding=utf8&serverTimezone=UTC");
