@@ -1,0 +1,3 @@
+com\formula\generate\core\AppTest.class
+com\formula\generate\core\GenerateBootstrapTest.class
+com\formula\generate\core\query\MySQLTableQueryResultTest.class
